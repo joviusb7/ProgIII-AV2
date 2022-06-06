@@ -81,20 +81,20 @@ body {
 
   .bloco2{
    margin: auto;
-   padding: 0.8rem;
+   padding: auto;
    width: 296px;
    height: 290px;
   }
 
   .titulo{
    margin: auto;
-   padding: auto;
+   padding-top: auto;
    max-width: 366px;
   }
 
   .descricao{
    margin: auto;
-   padding: auto;
+   padding-top: 2rem;
    max-width: 296px;
   }
 }
