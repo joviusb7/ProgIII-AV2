@@ -62,7 +62,7 @@ body {
  width: 1.1rem;
 }
 
-@media only screen and (max-width: 500px) {
+@media only screen and (max-width: 600px) {
 
   .bloco {
    margin: auto;
